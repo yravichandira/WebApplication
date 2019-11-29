@@ -1,0 +1,14 @@
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+D:\Profiles\yravichandira\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
